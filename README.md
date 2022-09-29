@@ -1,2 +1,2 @@
-# B-sicos-Python
+# Basicos-Python
 Ejemplos básicos de python
